@@ -1,0 +1,8 @@
+node_modules
+.env
+ethwalletganache.txt
+#Hardhat files
+cache
+artifacts
+.DS_Store
+chaindata
